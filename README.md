@@ -54,10 +54,10 @@
  - ✔ Android Developer Intern at Park+
  - ✔ Android Developer Intern at Supershare
 <a href="">
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=animeshsingh75&card_width=360&theme=dark&hide_border=true" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=animeshsingh75&theme=dark&hide_border=true" />
 </a>
 <a href="">
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=animeshsingh75&layout=compact&langs_count=8&card_width=360&theme=dark&hide_border=true&exclude_repo=readmestats&hide=javascript"/>
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=animeshsingh75&layout=compact&langs_count=8&theme=dark&hide_border=true&exclude_repo=readmestats&hide=javascript"/>
 </a>
   
   
