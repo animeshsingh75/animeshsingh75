@@ -54,10 +54,10 @@
  - ✔ Software Engineer Intern at Park+
  - ✔ Software Engineer Intern at Supershare
 <a href="">
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=animeshsingh75&theme=dark&hide_border=true" />
+<img height=400 align="center" src="https://github-readme-stats.vercel.app/api?username=animeshsingh75&theme=dark&hide_border=true" />
 </a>
 <a href="">
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=animeshsingh75&layout=donut&langs_count=8&theme=dark&exclude_repo=github-readme-stats&hide_border=true"/>
+<img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=animeshsingh75&layout=donut-vertical&langs_count=8&theme=dark&exclude_repo=github-readme-stats&hide_border=true"/>
 </a>
   
   
