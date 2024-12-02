@@ -23,9 +23,9 @@
 
 - 🎓 I study at ASU
 
-- 📫 How to reach me **asing574@asu.edu**
+- 📫 How to reach me **animeshsingh75@gmail.com**
 
-- ⚡ Fun Fact: Except for coding, I love watch movies and listen to music
+- ⚡ Fun Fact: Except for coding 💻, I love watching movies 🎥 and listening to music 🎶.
 
 - 🔭 Apps published on play store : https://bit.ly/animeshPlayStoreApps
 
