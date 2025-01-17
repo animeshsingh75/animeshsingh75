@@ -12,12 +12,8 @@
 
 
 ## About me: 🙋‍♂
-<a href="https://github.com/animeshsingh75" target="_blank">
-  <img src="https://img.shields.io/badge/PRs-welcome-7FFFD4.svg?style=flat&logo=github" alt="PRs Welcome">
-</a>
-<a href="https://github.com/animeshsingh75" target="_blank">
-  <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="Open Source Love">
-</a>
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-7FFFD4.svg?style=flat&logo=github)](https://github.com/animeshsingh75)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/animeshsingh75) convert this target blank
 <img src="https://komarev.com/ghpvc/?username=animeshsingh75&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=7FFFD4"/>
 
 
