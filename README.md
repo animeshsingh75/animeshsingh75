@@ -13,7 +13,7 @@
 
 ## About me: 🙋‍♂
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-7FFFD4.svg?style=flat&logo=github)](https://github.com/animeshsingh75)
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/animeshsingh75) convert this target blank
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/animeshsingh75)
 <img src="https://komarev.com/ghpvc/?username=animeshsingh75&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=7FFFD4"/>
 
 
