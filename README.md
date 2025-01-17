@@ -32,9 +32,9 @@
 <br>
 
 ## Connect with me:🤗
-
+[<img src="https://img.shields.io/badge/website-blue?style=for-the-badge">](https://animeshsingh75.vercel.app/)
 [<img src="https://img.shields.io/badge/Github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/animeshsingh75)
-[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:asing574@asu.edu)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:asing574@asu.edu)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/animeshsingh75/)
 [<img src="https://img.shields.io/badge/Published%20Apps-%23000000.svg?&style=for-the-badge&logo=googleplay">](https://bit.ly/animeshPlayStoreApps)
 
